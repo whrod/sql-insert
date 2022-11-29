@@ -1,5 +1,5 @@
 # SQL data dummy insert (CSV)
 
-# Csv 더미데이터 mysql에 넣기
+### csv 더미데이터 mysql에 넣기
 
-1. happin project시 mysql dummy data insert
+1. happin project시 mysql dummy data(csv) insert하기
