@@ -43,7 +43,7 @@ const initialize = async () => {
   //======================================================
   // [happin_data_dummy - users.csv]
   //======================================================
-  fileName = './happin_data_dummy - users.csv';
+  fileName = 'csvs/happin_data_dummy - users.csv';
 
   await csvtojson()
     .fromFile(fileName)
